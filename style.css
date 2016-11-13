@@ -3,7 +3,7 @@ body {
 }
 
 * {
-    box-sizing: padding-box;
+    box-sizing: border-box;
 }
 table {
     /*width: 500px;*/
@@ -76,4 +76,28 @@ th {
 }
 .border-right {
     border-right: none;
+}
+
+.wid-50 {
+    width: 50px;
+}
+
+.wid-61 {
+    width: 61px;
+}
+
+.wid-62 {
+    width: 62px;
+}
+
+.wid-75 {
+    width: 75px;
+}
+
+.wid-77 {
+    width: 77px;
+}
+
+.wid-128 {
+    width: 128px;
 }
